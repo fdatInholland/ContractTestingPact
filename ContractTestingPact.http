@@ -1,0 +1,6 @@
+@ContractTestingPact_HostAddress = http://localhost:5095
+
+GET {{ContractTestingPact_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
